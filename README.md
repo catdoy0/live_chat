@@ -1,10 +1,10 @@
 # Live Chat With Room Creation
 
 this uses XAMPP's mariadb with 
-user=root
-password=
-port=3306
-database=Live_Chat_Databasek
+user=root  
+password=  
+port=3306  
+database=Live_Chat_Database  
 
 ```
 How to run FastAPI (BackEnd)
