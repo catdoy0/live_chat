@@ -1,6 +1,6 @@
 # Live Chat With Room Creation
 
-this uses XAMPP's mariadb with 
+this uses XAMPP's mariadb with   
 user=root  
 password=  
 port=3306  
